@@ -1,2 +1,2 @@
 # Alfred-Pod-Install
-Alfred workflow to CD to the frontmost finder window and run pod install.
+Alfred workflow to cd to the frontmost finder window and run pod install.
